@@ -1,0 +1,302 @@
+
+Rank	Company	Country	12-Month Sales Growth (%)	5-Year Annualized Total Return (%)	Innovation Premium* (%)
+1	 
+Salesforce.com
+United States	37.7	29.7	73.0
+2	 
+Alexion Pharmaceuticals
+United States	46.5	47.6	72.3
+3	 
+Amazon.com
+United States	34.9	26.3	58.3
+4	 
+Red Hat
+United States	22.6	23.9	58.1
+5	 
+Baidu
+China	73.9	50.0	57.6
+6	 
+Intuitive Surgical
+United States	27.6	20.8	54.0
+7	 
+Rakuten
+Japan	18.3	25.8	51.5
+8	 
+Edwards Lifesciences
+United States	13.1	33.7	46.9
+9	 
+Larsen & Toubro
+India	19.0	-0.5	46.1
+10	 
+ARM Holdings
+United Kingdom	16.9	27.3	45.4
+11	 
+Tencent Holdings
+China	55.8	53.0	44.1
+12	 
+Hindustan Unilever
+India	11.4	17.0	43.9
+13	 
+FMC Technologies
+United States	29.8	18.4	40.7
+14	 
+Cerner
+United States	24.6	20.3	39.2
+15	 
+Pernod Ricard
+France	7.9	4.3	39.0
+16	 
+Monsanto
+United States	18.6	8.3	38.6
+17	 
+Perrigo
+United States	15.2	38.3	38.3
+18	 
+Kweichow Moutai
+China	56.2	18.6	37.9
+19	 
+Infosys
+India	12.7	0.4	37.7
+20	 
+Wuliangye Yibin
+China	36.5	5.9	37.6
+21	 
+Starbucks
+United States	12.7	13.4	37.0
+22	 
+Nidec
+Japan	3.4	7.2	36.1
+23	 
+Estee Lauder Cos
+United States	10.3	26.6	36.0
+24	 
+Google
+United States	29.5	6.2	35.9
+25	 
+Danone
+France	7.8	0.3	35.8
+26	 
+Apple
+United States	48.3	39.7	35.7
+27	 
+Procter & Gamble
+United States	2.3	3.5	35.3
+28	 
+Essilor International
+France	7.7	9.5	35.2
+29	 
+Tata Consultancy Services
+India	19.5	14.6	35.1
+30	 
+Reckitt Benckiser Group
+United Kingdom	5.4	5.0	34.5
+31	 
+Ecolab
+United States	47.2	11.9	34.1
+32	 
+Keyence
+Japan	12.1	8.5	34.0
+33	 
+Diageo
+United Kingdom	1.6	9.7	33.9
+34	 
+L'Oreal
+France	4.3	4.1	33.6
+35	 
+Hershey
+United States	7.1	12.4	33.2
+36	 
+Beiersdorf
+Germany	1.1	2.7	33.0
+37	 
+Colgate-Palmolive
+United States	5.7	12.2	32.7
+38	 
+Sun Pharmaceutical Industries
+India	34.6	22.2	32.7
+39	 
+Citrix Systems
+United States	18.1	19.0	32.3
+40	 
+Dassault Systemes
+France	9.9	12.3	31.9
+41	 
+Technip
+France	15.9	12.4	31.8
+42	 
+Kone
+Finland	9.9	18.9	31.6
+43	 
+Fanuc
+Japan	20.4	14.0	31.1
+44	 
+Schlumberger
+Netherlands	23.4	-2.1	31.0
+45	 
+Nintendo
+Japan	-26.7	-21.2	31.0
+46	 
+Praxair
+United States	5.8	10.4	30.7
+47	 
+Synthes**
+Switzerland	7.8	8.9	30.7
+48	 
+Yum! Brands
+United States	14.0	18.6	30.3
+49	 
+CSL
+Australia	-6.0	15.7	29.2
+50	 
+General Mills
+United States	11.9	9.9	28.8
+51	 
+NetApp
+United States	14.6	5.2	28.2
+52	 
+Kellogg
+United States	2.7	1.8	26.6
+53	 
+Anheuser-Busch InBev
+Belgium	4.1	14.0	26.5
+54	 
+BRF-Brasil Foods
+Brazil	2.4	14.7	26.4
+55	 
+Ultrapar Participacoes
+Brazil	6.5	29.6	26.4
+56	 
+Celgene
+United States	20.6	3.1	26.4
+57	 
+Intuit
+United States	9.4	16.1	26.2
+58	 
+PepsiCo
+United States	6.7	4.1	26.1
+59	 
+Fresenius Medical Care
+Germany	6.3	9.7	26.0
+60	 
+ICL-Israel Chemicals
+Israel	13.7	15.9	25.9
+61	 
+Unilever NV
+Netherlands	6.7	7.3	25.7
+62	 
+Activision Blizzard
+United States	-7.5	6.8	25.3
+63	 
+Kraft Foods
+United States	4.2	9.3	25.0
+64	 
+Johnson Controls
+United States	8.4	-3.4	25.0
+65	 
+SMC Corp
+Japan	1.1	8.3	24.8
+66	 
+Carlsberg
+Denmark	2.1	-3.0	24.5
+67	 
+China Oilfield Services
+China	16.6	9.4	24.4
+68	 
+Automatic Data Processing
+United States	8.9	7.7	23.3
+69	 
+Saipem
+Italy	7.9	9.4	23.1
+70	 
+Kao
+Japan	7.8	3.4	22.9
+71	 
+LVMH Moet Hennessy Louis Vuitton
+France	26.5	11.4	22.7
+72	 
+Cameron International
+United States	15.2	8.5	21.6
+73	 
+Anadarko Petroleum
+United States	11.8	8.4	21.4
+74	 
+Sandvik
+Sweden	11.0	-1.7	21.3
+75	 
+Fresenius SE
+Germany	7.0	10.2	20.5
+76	 
+Schindler Holding
+Switzerland	3.4	16.9	20.2
+77	 
+SAP
+Germany	11.1	5.8	20.2
+78	 
+Campbell Soup
+United States	0.9	2.2	20.1
+79	 
+Sherwin-Williams
+United States	11.9	18.7	20.0
+80	 
+Air Products & Chemicals
+United States	-1.1	2.4	20.0
+81	 
+Rolls-Royce Holdings
+United Kingdom	3.7	10.7	19.7
+82	 
+Agilent Technologies
+United States	5.5	2.0	19.5
+83	 
+Becton, Dickinson & Co.
+United States	3.4	1.8	19.1
+84	 
+Atlas Copco
+Sweden	17.0	13.3	19.0
+85	 
+Sany Heavy Industry
+China	32.4	16.0	19.0
+86	 
+Zoomlion Heavy Industry
+China	33.5	15.5	18.9
+87	 
+Novo Nordisk
+Denmark	11.5	26.8	18.8
+88	 
+Christian Dior
+France	26.7	7.5	18.7
+89	 
+Paccar
+United States	42.8	-1.7	18.0
+90	 
+General Electric
+United States	-2.3	-7.8	17.6
+91	 
+Emerson Electric
+United States	3.1	5.5	17.3
+92	 
+Syngenta
+Switzerland	9.7	16.7	17.3
+93	 
+Adidas
+Germany	11.4	7.9	17.2
+94	 
+Henkel
+Germany	1.8	11.6	16.9
+95	 
+IOI Corp
+Malaysia	11.6	6.2	16.7
+96	 
+Air Liquide
+France	5.1	8.0	16.6
+97	 
+Tyco International
+Switzerland	3.2	9.0	16.2
+98	 
+Kubota
+Japan	15.0	6.6	16.1
+99	 
+Danaher
+United States	30.7	7.2	16.0
+100	 
+Altera
+United States	-15.6	10.6	16.0

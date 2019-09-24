@@ -1,0 +1,7 @@
+Model, NMSE
+Linear Model, 0.3133434
+Decision Tree, 0.3444526
+boosting, 0.1913684
+bagging, 0.2449772
+Random Forest, 0.1389776
+SVM, 0.2104702

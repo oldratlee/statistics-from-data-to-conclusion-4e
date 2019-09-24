@@ -1,0 +1,7 @@
+Model,Error Rate
+Lda, 0.03849206
+Decision Tree, 0.07936508
+boosting, 0.03809524
+bagging, 0.06269841
+Random Forest, 0.02460317
+SVM, 0.02738095

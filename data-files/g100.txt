@@ -1,0 +1,101 @@
+Rank,Company,Country,Sales,Profits,Assets,Market.Value
+1,Exxon Mobil,United States,433.5,41.1,331.1,407.4
+2,JPMorgan Chase,United States,110.8,19,2265.8,170.1
+3,General Electric,United States,147.3,14.2,717.2,213.7
+4,Royal Dutch Shell,Netherlands,470.2,30.9,340.5,227.6
+5,ICBC,China,82.6,25.1,2039.1,237.4
+6,HSBC Holdings,United Kingdom,102,16.2,2550,164.3
+7,PetroChina,China,310.1,20.6,304.7,294.7
+8,Berkshire Hathaway,United States,143.7,10.3,392.6,202.2
+9,Wells Fargo,United States,87.6,15.9,1313.9,178.7
+10,Petrobras-Petroleo Brasil,Brazil,145.9,20.1,319.4,180
+11,BP,United Kingdom,375.5,25.7,292.5,147.4
+12,Chevron,United States,236.3,26.9,209.5,218
+13,China Construction Bank,China,68.7,20.5,1637.8,201.9
+14,Citigroup,United States,102.6,11.1,1873.9,107.5
+15,Gazprom,Russia,117.6,31.7,302.6,159.8
+16,Wal-Mart Stores,United States,447,15.7,193.4,208.4
+17,Volkswagen Group,Germany,221.9,21.5,328.7,79.5
+18,Total,France,216.2,15.9,213,132.4
+19,Agricultural Bank of China,China,62.4,14.4,1563.9,154.8
+20,BNP Paribas,France,119,7.9,2539.1,61.5
+21,Bank of China,China,60.8,15.8,1583.7,129.1
+22,Apple,United States,127.8,33,138.7,546
+23,Banco Santander,Spain,109.6,6.9,1624.7,75.6
+24,Sinopec-China Petroleum,China,391.4,11.6,179.8,104.2
+25,Toyota Motor,Japan,228.5,4.9,358.3,147.9
+26,Samsung Electronics,South Korea,142.4,11.5,133.7,162
+27,ConocoPhillips,United States,230.9,12.4,153.2,98.8
+28,Vodafone,United Kingdom,73.5,12.8,239.2,131.2
+29,ENI,Italy,143.2,8.9,178.7,97.6
+30,Itau Unibanco Holding,Brazil,75.5,7.4,426.4,91.2
+31,China Mobile,Hong Kong-China,81.7,19.5,151.2,216.5
+32,IBM,United States,106.9,15.9,116.4,238.7
+33,AT&T,United States,126.7,3.9,270.3,187.3
+34,Pfizer,United States,67.4,10,188,165.4
+35,Procter & Gamble,United States,85.1,10.1,134.3,185.2
+36,Mitsubishi UFJ Financial,Japan,53.3,7,2478.8,74.5
+37,Daimler,Germany,138,7.3,188.7,66.3
+38,American Intl Group,United States,64.2,17.8,555.8,50.3
+39,ING Group,Netherlands,139,7.5,1653,35.8
+40,Nestle,Switzerland,89.2,10.1,119.4,205.4
+41,Statoil,Norway,111.6,13.1,127.8,89
+42,Microsoft,United States,72.1,23.5,112.2,273.5
+43,Banco Bradesco,Brazil,79.8,5.9,397.1,65.3
+44,Ford Motor,United States,136.3,20.2,178.3,47.5
+45,Nippon Telegraph & Tel,Japan,124,6.1,226.6,60.8
+45,AXA Group,France,132.8,5.6,947.8,40.6
+47,Commonwealth Bank,Australia,49.5,6.9,713.7,81.6
+47,GDF Suez,France,117.5,5.2,275.2,58.3
+49,BHP Billiton,Australia,71.7,23.6,102.9,187.5
+50,Allianz,Germany,134.4,3.3,832.8,56.3
+50,Siemens,Germany,98.4,8.2,135.6,92
+52,Deutsche Bank,Germany,65.7,5.4,2809.4,47.3
+53,Barclays,United Kingdom,66.3,4.7,2425.2,49.1
+54,Banco do Brasil,Brazil,72.4,6.5,516.3,45.9
+55,MetLife,United States,70.3,7,799.6,40.7
+56,Vale,Brazil,55.4,20.3,127.6,126.8
+57,Telefonica,Spain,81.4,7,159.9,75.6
+57,Johnson & Johnson,United States,65,9.7,113.6,178.8
+59,Westpac Banking Group,Australia,44.1,7.2,651.7,67.5
+59,Honda Motor,Japan,107.5,6.4,137.7,70.8
+61,BMW Group,Germany,95.8,6.8,160,61.2
+62,Novartis,Switzerland,58.6,9.1,117.5,150.4
+63,General Motors,United States,150.3,9.2,144.6,40
+64,Sumitomo Mitsui Financial,Japan,45.9,5.7,1654.9,47.8
+65,China Life Insurance,China,56,5.1,214.1,76.5
+66,Verizon Communications,United States,110.9,2.4,230.5,112.2
+67,Hewlett-Packard,United States,125,5.9,126.6,48.4
+68,Lukoil,Russia,111.4,10.4,90.6,55.3
+69,Rio Tinto,United Kingdom,60.5,5.8,119.5,110.2
+70,Royal Bank of Canada,Canada,35.9,4.7,812.7,84.4
+71,Rosneft,Russia,59.2,11.3,106,79.6
+71,UBS,Switzerland,43.7,4.5,1508.7,54.2
+73,EDF,France,84.6,3.9,297.5,45.7
+74,BASF,Germany,95.2,8,78.7,82.2
+75,ENEL,Italy,103.2,5.4,220.4,35.4
+76,National Australia Bank,Australia,38.2,5,730.4,56.3
+77,Goldman Sachs Group,United States,36.8,4.4,923.2,63.5
+78,Sanofi,France,43.2,7.4,125.3,103.3
+79,ANZ,Australia,34.7,5.2,577.2,62.6
+80,Merck & Co,United States,48,6.3,105.1,115.8
+81,Comcast,United States,55.8,4.2,157.8,79.8
+82,TD Bank,Canada,27.7,5.8,771.5,76.1
+83,Bank of America,United States,115.1,1.4,2129,105.2
+83,BBVA-Banco Bilbao Vizcaya,Spain,46.7,3.9,767.7,43.1
+85,Nissan Motor,Japan,105.5,3.8,128.7,48.1
+85,Intel,United States,54,12.9,71.1,138.5
+87,Coca-Cola,United States,46.5,8.6,80,158.8
+88,PepsiCo,United States,66.5,6.4,72.9,101.3
+88,Saudi Basic Industries,Saudi Arabia,50.6,7.8,88.6,84.4
+90,Sberbank,Russia,31.8,6,282.4,74
+91,Cisco Systems,United States,44.8,7,89.3,107.9
+92,Bank of Nova Scotia,Canada,27.3,5.3,635.2,62.2
+93,Anheuser-Busch InBev,Belgium,39,5.9,112.4,115.3
+94,Societe Generale,France,98.6,3.3,1531.1,25.8
+95,Mitsubishi Corp,Japan,62.6,5.6,136.6,39.7
+96,Hyundai Motor,South Korea,70.3,6.9,94.5,43.6
+97,Zurich Financial Services,Switzerland,53,3.5,365.6,39
+98,Mizuho Financial,Japan,32.2,5,1934.4,40.6
+99,Glencore International,Switzerland,179.6,3.9,85.2,45.9
+100,Morgan Stanley,United States,39.3,4.1,749.9,38.6

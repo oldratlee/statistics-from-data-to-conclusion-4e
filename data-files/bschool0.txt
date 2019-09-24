@@ -1,0 +1,61 @@
+FiveYearGain,FiveYearGp,YearsToPayback,SalaPreMBA,SalaPostMBA,Tuition,GMAT,Location,State
+Dartmouth (Tuck),134,84,2.9,54,165,75,710,  Hanover, NH
+Pennsylvania (Wharton),129,75,3.2,64,177,75,716,  Philadelphia, PA
+Chicago,121,71,3.3,60,164,75,710,  Chicago, IL
+Columbia,120,74,3.1,57,160,75,707,  New York, NY
+Yale,119,84,2.8,46,134,72,700,  New Haven, CT
+Stanford,115,70,3.2,58,160,78,710,  Stanford, CA
+Harvard,113,63,3.4,62,180,71,707,  Boston, MA
+Virginia (Darden),113,76,2.9,52,139,72,690,  Charlottesville, VA
+Cornell (Johnson),112,82,2.9,44,135,71,680,  Ithaca, NY
+Northwestern (Kellogg),104,65,3.2,53,143,76,700,  Evanston, IL
+Texas-Austin (McCombs),103,92,2.6,44,108,62,670,  Austin, TX
+Iowa (Tippie),102,126,2.2,33,93,39,640,  Iowa City, IA
+NYU (Stern),102,65,3.2,55,150,70,700,  New York, NY
+UNC (Kenan-Flagler),101,84,2.8,47,125,68,660,  Chapel Hill, NC
+UC Berkeley (Haas),100,77,2.9,51,128,69,700,  Berkeley, CA
+Carnegie Mellon (Tepper),99,71,2.9,45,118,76,690,  Pittsburgh, PA
+Brigham Young (Marriott),99,125,2.2,33,86,22,660,  Provo, UT
+MIT (Sloan),97,58,3.3,55,145,77,698,  Cambridge, MA
+UCLA (Anderson),91,68,3.1,56,137,69,710,  Los Angeles, CA
+Duke (Fuqua),90,59,3.1,52,121,72,701,  Durham, NC
+Emory (Goizueta),90,70,2.9,38,105,66,680,  Atlanta, GA
+Indiana (Kelley),89,74,2.9,45,112,51,645,  Bloomington, IN
+Penn State (Smeal),89,89,2.6,36,99,47,650,  University Park, PA
+Texas A&M (Mays),89,109,2.4,37,90,30,637,  College Station, TX
+Vanderbilt (Owen),86,63,3.2,45,120,66,622,  Nashville, TN
+Michigan (Ross),82,52,3.4,53,135,75,695,  Ann Arbor, MI
+Washington U-St. Louis(Olin),80,62,3.1,41,100,68,649,  St. Louis, MO
+USC (Marshall),80,62,3.3,44,115,67,690,  Los Angeles, CA
+Maryland (Smith),80,76,2.9,41,97,48,651,  College Park, MD
+Purdue (Krannert),80,70,3,41,106,55,670,  West Lafayette, IN
+SMU (Cox),78,62,3.1,43,103,59,661,  Dallas, TX
+Michigan State (Broad),78,77,2.9,40,95,47,640,  East Lansing, MI
+Arizona (Eller),77,80,2.8,37,89,46,630,  Tucson, AZ
+Ohio State (Fisher),75,71,3,40,90,57,670,  Columbus, OH
+Minnesota (Carlson),75,72,3,37,94,56,650,  Minneapolis, MN
+Rochester (Simon),75,55,3.3,45,110,68,660,  Rochester, NY
+Georgetown (McDonough),74,53,3.5,47,130,67,660,  Washington, DC
+UC Irvine (Merage),73,66,3.1,45,110,69,650,  Irvine, CA
+William & Mary,71,70,3.1,40,98,53,600,  Williamsburg, VA
+Wake Forest (Babcock),68,55,3.4,41,110,56,640,  Winston-Salem, NC
+Rice (Jones),68,54,3.4,45,115,61,640,  Houston, TX
+Wisconsin-Madison,67,67,3.1,38,95,53,650,  Madison, WI
+Notre Dame (Mendoza),67,53,3.4,42,115,62,660,  Notre Dame, IN
+Georgia (Terry),64,67,3.3,40,100,43,645,  Athens, GA
+Georgia Tech,62,60,3.2,40,91,46,660,  Atlanta, GA
+Boston U,62,49,3.4,42,100,62,637,  Boston, MA
+Rollins (Crummer),62,71,3.2,24,70,49,580,  Winter Park, FL
+SUNY Buffalo,60,95,2.8,24,70,23,595,  Buffalo, NY
+South Carolina (Moore),60,60,3.3,35,93,47,620,  Columbia, SC
+Florida (Warrington),59,60,3.4,40,100,43,670,  Gainesvillle, FL
+Tulane (Freeman),57,47,3.2,38,94,62,655,  New Orleans, LA
+Arizona State (Carey),57,59,3.1,40,85,28,650,  Tempe, AZ
+Auburn,54,89,3,27,72,28,570,  Auburn University, AL
+University of Washington,50,45,3.6,48,107,46,680,  Seattle, WA
+Oregon (Lundquist),44,49,3.5,35,80,29,640,  Eugene, OR
+Pepperdine (Graziadio),32,32,4,40,90,58,635,  Los Angeles, CA
+Boston College (Carroll),29,22,4.2,44,99,55,650,  Chestnut Hill, MA
+UC Davis,14,12,4.5,51,100,68,680,  Davis, CA
+Denver (Daniels),7,6,4.8,37,100,50,560,  Denver, CO
+Miami,2,2,4.9,38,90,56,605,  Coral Gables, FL

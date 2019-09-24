@@ -1,0 +1,260 @@
+Country.Area,Airports,Railways.km,Roadways.km,Waterways.km,Merchant.marine
+ Afghanistan ,46,NA,42150,1200,NA
+ Akrotiri ,NA,NA,NA,NA,NA
+ Albania ,11,447,18000,43,24
+ Algeria ,150,3973,108302,NA,33
+ American Samoa ,3,NA,221,NA,NA
+ Andorra ,NA,NA,270,NA,NA
+ Angola ,232,2761,51429,1300,6
+ Anguilla ,3,NA,175,NA,NA
+ Antarctica ,27,NA,NA,NA,NA
+ Antigua and Barbuda ,3,NA,1165,NA,1146
+ Arctic Ocean ,NA,NA,NA,NA,NA
+ Argentina ,1272,31902,231374,11000,46
+ Armenia ,12,839,7700,NA,NA
+ Aruba ,1,NA,NA,NA,NA
+ Ashmore and Cartier Islands ,NA,NA,NA,NA,NA
+ Atlantic Ocean ,NA,NA,NA,NA,NA
+ Australia ,461,38550,812972,2000,50
+ Austria ,55,6383,107262,358,4
+ Azerbaijan ,35,2122,59141,NA,89
+" Bahamas, The ",62,NA,2717,NA,1223
+ Bahrain ,3,NA,3498,NA,9
+ Bangladesh ,16,2768,239226,8370,40
+ Barbados ,1,NA,1600,NA,85
+ Belarus ,67,5512,94797,2500,NA
+ Belgium ,43,3536,152256,2043,79
+ Belize ,44,NA,3007,825,216
+ Benin ,5,758,16000,150,NA
+ Bermuda ,1,NA,447,NA,137
+ Bhutan ,2,NA,8050,NA,NA
+ Bolivia ,1061,3504,62479,10000,23
+ Bosnia and Herzegovina ,28,608,21846,NA,NA
+ Botswana ,85,888,25798,NA,NA
+ Bouvet Island ,NA,NA,NA,NA,NA
+ Brazil ,4263,29295,1751868,50000,136
+ British Indian Ocean Territory ,1,NA,NA,NA,NA
+ British Virgin Islands ,3,NA,200,NA,1
+ Brunei ,2,NA,3650,209,8
+ Bulgaria ,214,4294,40231,470,74
+ Burkina Faso ,33,622,92495,NA,NA
+ Burma ,86,3955,27000,12800,24
+ Burundi ,8,NA,12322,NA,NA
+ Cambodia ,17,602,38257,2400,626
+ Cameroon ,45,987,50000,NA,NA
+ Canada ,1343,48068,1042300,636,175
+ Cape Verde ,8,NA,1350,NA,8
+ Cayman Islands ,3,NA,785,NA,109
+ Central African Republic ,51,NA,24307,2800,NA
+ Chad ,55,NA,33400,NA,NA
+ Chile ,358,6585,80505,NA,44
+ China ,467,75438,1930544,124000,1826
+ Christmas Island ,1,NA,140,NA,NA
+ Clipperton Island ,NA,NA,NA,NA,NA
+ Cocos (Keeling) Islands ,1,NA,22,NA,NA
+ Colombia ,934,3304,164257,18000,17
+ Comoros ,4,NA,880,NA,136
+" Congo, Democratic Republic of the ",237,5138,153497,15000,1
+" Congo, Republic of the ",31,894,17289,1125,1
+ Cook Islands ,9,NA,320,NA,26
+ Coral Sea Islands ,NA,NA,NA,NA,NA
+ Costa Rica ,151,278,35330,730,1
+ Cote d'Ivoire ,34,660,80000,980,NA
+ Croatia ,68,2726,28788,785,80
+ Cuba ,165,4226,60858,240,11
+ Cyprus ,16,NA,14630,NA,858
+ Czech Republic ,122,9597,128512,664,1
+ Denmark ,91,2644,72362,400,327
+ Dhekelia ,NA,NA,NA,NA,NA
+ Djibouti ,13,100,3065,NA,NA
+ Dominica ,2,NA,780,NA,53
+ Dominican Republic ,34,517,19705,NA,1
+ Ecuador ,406,966,43670,1500,37
+ Egypt ,88,5063,92370,3500,67
+ El Salvador ,65,562,10886,NA,NA
+ Equatorial Guinea ,5,NA,2880,NA,1
+ Eritrea ,18,306,4010,NA,5
+ Estonia ,19,968,57016,320,29
+ Ethiopia ,84,699,36469,NA,9
+ European Union ,NA,236436,5269163,52332,NA
+ Falkland Islands (Islas Malvinas) ,6,NA,440,NA,NA
+ Faroe Islands ,1,NA,463,NA,12
+ Fiji ,28,597,3440,203,9
+ Finland ,148,5741,78821,7842,98
+ France ,476,29370,951500,8500,138
+ French Polynesia ,54,NA,2590,NA,15
+ French Southern and Antarctic Lands ,4,NA,NA,NA,NA
+ Gabon ,53,814,9170,1600,2
+" Gambia, The ",1,NA,3742,390,5
+ Gaza Strip ,2,NA,NA,NA,NA
+ Georgia ,23,1612,20329,NA,191
+ Germany ,550,48215,644480,7467,393
+ Ghana ,12,953,62221,1293,4
+ Gibraltar ,1,NA,29,NA,240
+ Greece ,81,2571,117533,6,869
+ Greenland ,14,NA,NA,NA,2
+ Grenada ,3,NA,1127,NA,NA
+ Guam ,5,NA,1045,NA,NA
+ Guatemala ,402,886,14095,990,NA
+ Guernsey ,2,NA,NA,NA,NA
+ Guinea ,16,837,44348,1300,NA
+ Guinea-Bissau ,27,NA,3455,NA,NA
+ Guyana ,93,NA,7970,NA,8
+ Haiti ,14,NA,4160,NA,NA
+ Heard Island and McDonald Islands ,NA,NA,NA,NA,NA
+ Holy See (Vatican City) ,NA,NA,NA,NA,NA
+ Honduras ,112,699,13600,465,123
+ Hong Kong ,2,NA,2009,NA,1114
+ Hungary ,46,8057,159568,1622,NA
+ Iceland ,99,NA,13058,NA,2
+ India ,346,63221,3316452,14500,501
+ Indian Ocean ,NA,NA,NA,NA,NA
+ Indonesia ,652,6458,391009,21579,971
+ Iran ,331,8367,172927,850,74
+ Iraq ,110,2272,44900,5279,14
+ Ireland ,34,3237,96602,956,29
+ Isle of Man ,1,65,500,NA,273
+ Israel ,53,853,17870,NA,11
+ Italy ,132,19460,487700,2400,609
+ Jamaica ,34,NA,21552,NA,20
+ Jan Mayen ,1,NA,NA,NA,NA
+ Japan ,176,23474,1196999,1770,683
+ Jersey ,1,NA,NA,NA,NA
+ Jordan ,17,505,7694,NA,21
+ Kazakhstan ,97,13700,91563,4000,5
+ Kenya ,225,2778,63265,NA,1
+ Kiribati ,19,NA,670,5,43
+" Korea, North ",77,5235,25554,2250,167
+" Korea, South ",105,3472,102062,1608,812
+ Kosovo ,10,430,1924,NA,NA
+ Kuwait ,7,NA,5749,NA,38
+ Kyrgyzstan ,30,470,18500,600,NA
+ Laos ,42,NA,29811,4600,1
+ Latvia ,42,2303,69675,300,22
+ Lebanon ,7,401,6970,NA,33
+ Lesotho ,28,NA,7091,NA,NA
+ Liberia ,53,490,10600,NA,2204
+ Libya ,141,NA,100024,NA,17
+ Liechtenstein ,NA,NA,NA,28,NA
+ Lithuania ,87,1771,79984,441,45
+ Luxembourg ,2,275,5227,37,45
+ Macau ,1,NA,384,NA,NA
+ Macedonia ,17,699,13182,NA,NA
+ Madagascar ,104,854,65663,600,8
+ Malawi ,39,797,15451,700,NA
+ Malaysia ,116,1890,98721,7200,306
+ Maldives ,5,NA,88,NA,29
+ Mali ,29,729,18709,1800,NA
+ Malta ,1,NA,2227,NA,1438
+ Marshall Islands ,15,NA,2028,NA,1049
+ Mauritania ,25,NA,11066,NA,NA
+ Mauritius ,5,NA,2028,NA,3
+ Mayotte ,1,NA,NA,NA,NA
+ Mexico ,1834,17665,356945,2900,55
+" Micronesia, Federated States of ",6,NA,240,NA,3
+ Moldova ,10,1138,12666,424,39
+ Monaco ,NA,NA,50,NA,70
+ Mongolia ,44,1810,49250,580,77
+ Montenegro ,5,250,7368,NA,6
+ Montserrat ,2,NA,227,NA,NA
+ Morocco ,60,1907,57626,NA,35
+ Mozambique ,147,3123,30400,460,2
+ Namibia ,137,2382,42237,NA,1
+ Nauru ,1,NA,NA,NA,NA
+ Navassa Island ,NA,NA,NA,NA,NA
+ Nepal ,47,59,17280,NA,NA
+ Netherlands ,27,2797,134981,6211,622
+ Netherlands Antilles ,5,NA,NA,NA,147
+ New Caledonia ,25,NA,5432,NA,2
+ New Zealand ,121,4128,93460,NA,13
+ Nicaragua ,163,6,19036,2220,NA
+ Niger ,28,NA,18423,300,NA
+ Nigeria ,70,3505,193200,8600,68
+ Niue ,1,NA,120,NA,NA
+ Norfolk Island ,1,NA,80,NA,NA
+ Northern Mariana Islands ,5,NA,536,NA,NA
+ Norway ,98,4114,92946,1577,688
+ Oman ,137,NA,34965,NA,3
+ Pacific Ocean ,NA,NA,NA,NA,NA
+ Pakistan ,146,8163,259758,NA,15
+ Palau ,3,NA,NA,NA,NA
+ Panama ,116,355,11643,800,6323
+ Papua New Guinea ,578,NA,19600,11000,21
+ Paracel Islands ,1,NA,NA,NA,NA
+ Paraguay ,838,36,29500,3100,23
+ Peru ,237,1989,78829,8808,8
+ Philippines ,255,897,200037,3219,391
+ Pitcairn Islands ,NA,NA,NA,NA,NA
+ Poland ,123,23072,423997,3997,15
+ Portugal ,66,2786,78470,210,117
+ Puerto Rico ,29,96,26186,NA,3
+ Qatar ,5,NA,7761,NA,22
+ Romania ,61,11385,198817,1731,17
+ Russia ,1260,87157,854000,102000,1074
+ Rwanda ,9,NA,14008,NA,NA
+ Saint Barthelemy ,1,NA,NA,NA,NA
+ Saint Helena ,1,NA,198,NA,NA
+ Saint Kitts and Nevis ,2,50,320,NA,159
+ Saint Lucia ,2,NA,910,NA,NA
+ Saint Martin ,1,NA,NA,NA,NA
+ Saint Pierre and Miquelon ,2,NA,117,NA,NA
+ Saint Vincent and the Grenadines ,6,NA,829,NA,525
+ Samoa ,4,NA,2337,NA,1
+ San Marino ,NA,NA,104,NA,NA
+ Sao Tome and Principe ,2,NA,320,NA,6
+ Saudi Arabia ,213,1392,167600,NA,62
+ Senegal ,20,906,13576,1000,NA
+ Serbia ,39,3379,36875,587,NA
+ Seychelles ,15,NA,458,NA,8
+ Sierra Leone ,10,NA,11300,800,182
+ Singapore ,8,NA,3262,NA,1292
+ Slovakia ,35,3662,42993,172,51
+ Slovenia ,14,1229,38558,NA,29
+ Solomon Islands ,35,NA,1391,NA,NA
+ Somalia ,67,NA,22100,NA,1
+ South Africa ,728,20872,362099,NA,3
+ South Georgia and the South Sandwich Islands ,NA,NA,NA,NA,NA
+ Southern Ocean ,NA,NA,NA,NA,NA
+ Spain ,154,14974,681224,1000,158
+ Spratly Islands ,3,NA,NA,NA,NA
+ Sri Lanka ,18,1449,97286,160,26
+ Sudan ,101,5978,11900,4068,3
+ Suriname ,50,NA,4304,1200,1
+ Svalbard ,4,NA,NA,NA,NA
+ Swaziland ,18,301,3594,NA,NA
+ Sweden ,250,11528,425300,2052,195
+ Switzerland ,65,4839,71296,65,35
+ Syria ,90,2711,94890,900,77
+ Taiwan ,41,1588,40262,NA,102
+ Tajikistan ,26,482,27767,200,NA
+ Tanzania ,124,3690,78891,NA,9
+ Thailand ,106,4071,62401,4000,398
+ Timor-Leste ,8,NA,6040,NA,1
+ Togo ,9,568,7520,50,10
+ Tokelau ,NA,NA,NA,NA,NA
+ Tonga ,6,NA,680,NA,13
+ Trinidad and Tobago ,6,NA,8320,NA,9
+ Tunisia ,30,2153,19232,NA,7
+ Turkey ,117,8697,426906,1200,612
+ Turkmenistan ,28,2440,24000,1300,7
+ Turks and Caicos Islands ,8,NA,121,NA,1
+ Tuvalu ,1,NA,8,NA,80
+ Uganda ,32,1244,70746,NA,NA
+ Ukraine ,437,22473,169477,2253,189
+ United Arab Emirates ,39,NA,4080,NA,58
+ United Kingdom ,449,16567,388008,3200,518
+ United States ,14947,226612,6465799,41009,422
+ United States Pacific Island Wildlife Refuges ,NA,NA,NA,NA,NA
+ Uruguay ,60,2073,77732,1600,17
+ Uzbekistan ,54,3950,81600,1100,NA
+ Vanuatu ,31,NA,1070,NA,54
+ Venezuela ,390,682,96155,7100,62
+ Vietnam ,44,2600,222179,17702,387
+ Virgin Islands ,2,NA,1257,NA,NA
+ Wake Island ,1,NA,NA,NA,NA
+ Wallis and Futuna ,2,NA,NA,NA,8
+ West Bank ,3,NA,4996,NA,NA
+ Western Sahara ,9,NA,NA,NA,NA
+ Yemen ,50,NA,71300,NA,4
+ Zambia ,107,2157,91440,2250,NA
+ Zimbabwe ,341,3077,97440,NA,NA
